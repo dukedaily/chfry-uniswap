@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dukedaily/chfry-uniswap/precache-manifest.c2774df4c6d720046b200e64c002e9c2.js"
+  "/dukedaily/chfry-uniswap/precache-manifest.28604c38a602c8a5cd9ba7d957790367.js"
 );
 
 self.addEventListener('message', (event) => {
