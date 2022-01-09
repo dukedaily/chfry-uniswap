@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.b81e4ed5.chunk.js": "/chfry-uniswap/static/js/0.b81e4ed5.chunk.js",
     "static/js/0.b81e4ed5.chunk.js.map": "/chfry-uniswap/static/js/0.b81e4ed5.chunk.js.map",
-    "main.js": "/chfry-uniswap/static/js/main.04537c65.chunk.js",
-    "main.js.map": "/chfry-uniswap/static/js/main.04537c65.chunk.js.map",
+    "main.js": "/chfry-uniswap/static/js/main.88b12be0.chunk.js",
+    "main.js.map": "/chfry-uniswap/static/js/main.88b12be0.chunk.js.map",
     "runtime-main.js": "/chfry-uniswap/static/js/runtime-main.e1c2cfb5.js",
     "runtime-main.js.map": "/chfry-uniswap/static/js/runtime-main.e1c2cfb5.js.map",
     "static/css/3.ac87933b.chunk.css": "/chfry-uniswap/static/css/3.ac87933b.chunk.css",
@@ -20,7 +20,7 @@
     "static/js/8.38fa0135.chunk.js": "/chfry-uniswap/static/js/8.38fa0135.chunk.js",
     "static/js/8.38fa0135.chunk.js.map": "/chfry-uniswap/static/js/8.38fa0135.chunk.js.map",
     "index.html": "/chfry-uniswap/index.html",
-    "precache-manifest.4d97b53eef2c9b70064ac32ba247258e.js": "/chfry-uniswap/precache-manifest.4d97b53eef2c9b70064ac32ba247258e.js",
+    "precache-manifest.0e9dc7a14271e6baafd9c3aaa254eedb.js": "/chfry-uniswap/precache-manifest.0e9dc7a14271e6baafd9c3aaa254eedb.js",
     "service-worker.js": "/chfry-uniswap/service-worker.js",
     "static/css/3.ac87933b.chunk.css.map": "/chfry-uniswap/static/css/3.ac87933b.chunk.css.map",
     "static/js/3.1bdea558.chunk.js.LICENSE.txt": "/chfry-uniswap/static/js/3.1bdea558.chunk.js.LICENSE.txt",
@@ -60,6 +60,6 @@
     "static/js/runtime-main.e1c2cfb5.js",
     "static/css/3.ac87933b.chunk.css",
     "static/js/3.1bdea558.chunk.js",
-    "static/js/main.04537c65.chunk.js"
+    "static/js/main.88b12be0.chunk.js"
   ]
 }
