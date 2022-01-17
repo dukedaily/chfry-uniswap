@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chfry-uniswap-interface/precache-manifest.84c9cd2b89ab5370ae0c51eebb8c798f.js"
+  "/chfry-uniswap-interface/precache-manifest.8c71edc0c8b543cd106172ecc5044407.js"
 );
 
 self.addEventListener('message', (event) => {

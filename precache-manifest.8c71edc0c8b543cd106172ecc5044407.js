@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41195996274f9aca3ecf01b2311cdf8e",
+    "revision": "449f234522070f011c507b0dfea01cac",
     "url": "/chfry-uniswap-interface/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chfry-uniswap-interface/static/js/8.38fa0135.chunk.js"
   },
   {
-    "revision": "627ef0f3da5ac76c1128",
-    "url": "/chfry-uniswap-interface/static/js/main.88b12be0.chunk.js"
+    "revision": "c0d185a9122a4aa62f6a",
+    "url": "/chfry-uniswap-interface/static/js/main.8e669414.chunk.js"
   },
   {
     "revision": "a364e98169be2dd378f7",
