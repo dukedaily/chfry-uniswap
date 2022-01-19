@@ -17,6 +17,6 @@ export const DEFAULT_LIST_OF_LISTS: string[] = [
   //   'https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json',
   //   'https://defiprime.com/defiprime.tokenlist.json',
   //   'https://umaproject.org/uma.tokenlist.json',
-  'https://gist.githubusercontent.com/dukedaily/6116608ba020a11c6e85f59dff34869d/raw/6453734f6ae2ab05228fe9d7ce5595b50cc41683/gistfile1.json'
+  'https://gist.githubusercontent.com/dukedaily/6116608ba020a11c6e85f59dff34869d/raw/b829ae2c3d40c87930104882157473ab9e10e2ac/gistfile1.json'
 
 ]
